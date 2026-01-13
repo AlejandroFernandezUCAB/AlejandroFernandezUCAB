@@ -12,11 +12,10 @@
 
 ---
 
-<details>
 <summary>🇪🇸 <b>Español</b> | 🇬🇧 <b>English</b></summary>
 
 <div align="center">
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" alt="creative" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXdnZng1YzNrcTJiOTF3eGN3MHFrczU0OHFiYTM5OTl6YjJlMTlubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13G7hmmFr9yuxG/giphy.gif" width="120" alt="creative" />
 </div>
 
 ## ✨ Extracto | About Me
@@ -145,4 +144,3 @@ Ingeniería informática | Computer Engineering<br>
   <em>¡Gracias por visitar mi perfil! | Thanks for visiting my profile! 🚀</em>
 </div>
 
-</details>
